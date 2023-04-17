@@ -1,8 +1,7 @@
 title: thororen
 description: About Me
-author: Shangzhi Huang
+author: thororen
 avatar: /logo.png
-email: ngzhio@gmail.com
 
 plugins:
   - jekyll-seo-tag
