@@ -6,10 +6,10 @@ tags: [server list]
 
 Server list:
 ```markdown
-- [ ] Server Checks
-  - [ ] Update server sackages
-  - [ ] Everything is working
-  - [ ] Restart server
+- [X] Server Checks
+  - [X] Update server sackages
+  - [X] Everything is working
+  - [X] Restart server
 - [X] Pterodactyl
   - [X] Update
   - [X] Add new eggs
