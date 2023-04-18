@@ -1,7 +1,7 @@
-  ---
+---
 layout: post
 title: Forks List
-tags: [Forks list]
+tags: [forks list]
 ---
 
 Forks list:
