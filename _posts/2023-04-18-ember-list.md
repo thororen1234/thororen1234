@@ -11,11 +11,11 @@ Ember list:
   - [X] Check color perms
   - [X] Everything is working
   - [X] Release
-- [ ] Ember Tweaks
+- [X] Ember Tweaks
   - [X] Update
   - [X] Fix errors if found
   - [X] Everything is working
-  - [ ] Release
+  - [X] Release
 - [ ] Ember Engine
   - [X] Update
   - [X] Fix errors if found
