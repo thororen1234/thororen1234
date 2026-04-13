@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 32px;">thororen</h1>
+<h1 align="center">thororen</h1>
 <h2 align="center">
    Thank you to all my <a href="https://github.com/sponsors/thororen1234">sponsors</a>
    <br/><br/>
